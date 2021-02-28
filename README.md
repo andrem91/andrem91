@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 # Sou o André
 
 Eu achava que todos os problemas da vida poderiam ser resolvido com cerveja até conhecer o JavaScript. 🍺😅
