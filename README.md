@@ -21,6 +21,10 @@ Desenvolvedor FullStack Java Junior.
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=Visual-Studio-Code&logoColor=fff&style=flat" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?logo=Eclipse-IDE&logoColor=fff&style=flat" alt="Eclipse IDE">
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrem91&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrem91&show_icons=true&theme=dracula)
+
+
 ### Onde me encontrar:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff&style=for-the-badge&link=https://www.linkedin.com/in/andremarques91/" alt="LinkedIn">](https://www.linkedin.com/in/andremarques91/)
