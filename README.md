@@ -23,5 +23,5 @@ Eu achava que todos os problemas da vida poderiam ser resolvido com cerveja até
 
 ## :wink: Onde me encontrar:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff&style=for-the-badge&link=https://www.linkedin.com/in/andremarques91/" alt="LinkedIn">](https://www.linkedin.com/in/andremarques91/)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=fff&style=for-the-badge&link=https://www.linkedin.com/in/andrem91/" alt="LinkedIn">](https://www.linkedin.com/in/andremarques91/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=fff&style=for-the-badge&link=https://www.instagram.com/andrem91/" alt="Instagram">](https://www.instagram.com/andrem91/)
